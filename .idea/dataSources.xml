@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="1678439432">
-    <data-source source="LOCAL" name="MySQL - mdb_fg201@mysql.cms.gre.ac.uk" uuid="2c52d572-a553-4318-b422-121688738fc8">
+  <component name="DataSourceManagerImpl" format="xml" hash="1672093764">
+    <data-source source="LOCAL" name="MySQL - jdbc:mysql://mysql.cms.gre.ac.uk/fg201/" uuid="2c52d572-a553-4318-b422-121688738fc8">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <configured-by-url>true</configured-by-url>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://mysql.cms.gre.ac.uk/mdb_fg201</jdbc-url>
+      <jdbc-url>jdbc:mysql://mysql.cms.gre.ac.uk/fg201/</jdbc-url>
       <driver-properties>
         <property name="zeroDateTimeBehavior" value="convertToNull" />
         <property name="tinyInt1isBit" value="false" />

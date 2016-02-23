@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component name="dataSourceStorage">
-  <data-source name="MySQL - mdb_fg201@mysql.cms.gre.ac.uk" uuid="2c52d572-a553-4318-b422-121688738fc8">
+  <data-source name="MySQL - jdbc:mysql://mysql.cms.gre.ac.uk/fg201/" uuid="2c52d572-a553-4318-b422-121688738fc8">
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
 </component>
